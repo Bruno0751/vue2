@@ -1,0 +1,17 @@
+PARA TER PLUGINS OFICIAIS VUE
+
+1 - PESQUISE @vue/cli-plugin-<NOME DO PLUGIN>
+EX: @vue/cli-plugin-babel //
+
+PARA TER PLUGINS DESENVOLVIDOS PELA COMUNIDADE
+
+1 - PESQUISE vue-cli-plugin-<NOME PLUGIN>
+EX: vue-cli-plugin-vuetify //OU vuetify
+
+===========================================================
+
+INTALAR VUE cli
+
+npm i -g @cue/cli
+
+===========================================================
