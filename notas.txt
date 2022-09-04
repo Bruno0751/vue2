@@ -10,8 +10,14 @@ EX: vue-cli-plugin-vuetify //OU vuetify
 
 ===========================================================
 
-INTALAR VUE cli
+INTALAR VUE CL POR NPM 
 
 npm i -g @cue/cli
+
+INTALAR VUE CL POR TARN
+
+yarn global aedd @vue/cli
+
+INTALA DIGITE vue
 
 ===========================================================
