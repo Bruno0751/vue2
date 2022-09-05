@@ -9,15 +9,17 @@ PARA TER PLUGINS DESENVOLVIDOS PELA COMUNIDADE
 EX: vue-cli-plugin-vuetify //OU vuetify
 
 ===========================================================
+INTALAR VUE CLI
 
-INTALAR VUE CL POR NPM 
+1- npm install -g @vue/cli
 
-npm i -g @cue/cli
+2 - npm update -g @vue/cli
 
-INTALAR VUE CL POR TARN
+PARA CHECKAR VERSAO NODE: node --version 14.16.1
+PARA CHECKAR VERSAO NPM: npm --version 8.8.0
+PARA CHECKAR VERSAO VUE: veu --version @vue/cli 5.0.8
 
-yarn global aedd @vue/cli
+3 - yarn global aedd @vue/cli
 
-INTALA DIGITE vue
-
+4 - yarn global upgrade --latest @vue/cli
 ===========================================================
